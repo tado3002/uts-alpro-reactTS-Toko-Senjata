@@ -7,6 +7,13 @@ const ProductCard = ({
   product: Product;
   setProduct: any;
 }) => {
+  const productModal = document.getElementById(
+    "productModal",
+  ) as HTMLDialogElement | null;
+  const modalHandler = () => {
+    if (productModal) productModal.showModal();
+  };
+
   return (
     <div className="card card-compact bg-black w-92">
       <figure>
@@ -21,7 +28,7 @@ const ProductCard = ({
           <button
             className="btn btn-outline btn-error"
             onClick={() => {
-              document.getElementById("productModal").showModal();
+              modalHandler();
               setProduct(product);
             }}
           >

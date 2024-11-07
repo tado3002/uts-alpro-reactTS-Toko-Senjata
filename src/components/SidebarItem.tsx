@@ -24,7 +24,7 @@ const SidebarItem = ({
   };
   const deleteHandler = () => {
     const filteredProducts = selectedProducts.filter(
-      (product, id) => id !== productId,
+      (product, id) => product !== null && id !== productId,
     );
     setSelectedProducts(filteredProducts);
   };
