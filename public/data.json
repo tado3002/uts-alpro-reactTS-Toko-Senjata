@@ -1,0 +1,189 @@
+[
+    {
+      "name": "Glock 18",
+      "price": 200,
+      "type": "pistol",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/9/99/CSGO_Glock-18_Inventory.png/revision/latest?cb=20130813194200"
+    },
+    {
+      "name": "P2000",
+      "price": 200,
+      "type": "pistol",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/2/23/CSGO_P2000_Inventory.png/revision/latest?cb=20130813194247"
+    },
+    {
+      "name": "USP-S",
+      "price": 300,
+      "type": "pistol",
+      "image": "https://pngimage.net/wp-content/uploads/2018/05/csgo-pistol-png-3.png"
+    },
+    {
+      "name": "P250",
+      "price": 300,
+      "type": "pistol",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/3/32/CSGO_P250_Inventory.png/revision/latest?cb=20130813194341"
+    },
+    {
+      "name": "Tec-9",
+      "price": 500,
+      "type": "pistol",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/e/e3/CSGO_Tec-9_Inventory.png/revision/latest?cb=20130813200131"
+    },
+    {
+      "name": "Dual Berettas",
+      "price": 500,
+      "type": "pistol",
+      "image": "https://liquipedia.net/commons/images/1/13/Weapon_elite.png"
+    },
+    {
+      "name": "Five-SeveN",
+      "price": 500,
+      "type": "pistol",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/9/90/CSGO_Five-SeveN_Inventory.png/revision/latest?cb=20130813194104"
+    },
+    {
+      "name": "CZ75",
+      "price": 500,
+      "type": "pistol",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/d/da/CSGO_CZ75-Auto_Inventory.png/revision/latest?cb=20140710231132"
+    },
+    {
+      "name": "Desert Eagle",
+      "price": 700,
+      "type": "pistol",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/f/f3/CSGO_Desert_Eagle_Inventory.png/revision/latest?cb=20130903115839"
+    },
+    {
+      "name": "Nova",
+      "price": 1200,
+      "type": "Shotgun",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/1/11/CSGO_Nova_Inventory.png/revision/latest?cb=20130813200616"
+    },
+    {
+      "name": "Sawed-Off",
+      "price": 1200,
+      "type": "Shotgun",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/b/b4/CSGO_Sawed-Off_Inventory.png/revision/latest?cb=20130813200706"
+    },
+    {
+      "name": "MAG-7",
+      "price": 1800,
+      "type": "Shotgun",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/d/d4/CSGO_MAG-7_Inventory.png/revision/latest?cb=20130813200441"
+    },
+    {
+      "name": "XM1014",
+      "price": 2000,
+      "type": "Shotgun",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/1/11/CSGO_Nova_Inventory.png/revision/latest?cb=20130813200616"
+    },
+    {
+      "name": "MAC-10",
+      "price": 1050,
+      "type": "SMG",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/9/9c/CSGO_MAC-10_Inventory.png/revision/latest?cb=20130813201114"
+    },
+    {
+      "name": "UMP-45",
+      "price": 1200,
+      "type": "SMG",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/1/12/CSGO_UMP-45_Inventory.png/revision/latest?cb=20130813201733"
+    },
+    {
+      "name": "MP9",
+      "price": 1250,
+      "type": "SMG",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/e/eb/CSGO_MP9_Inventory.png/revision/latest?cb=20130813201324"
+    },
+    {
+      "name": "MP7",
+      "price": 1700,
+      "type": "SMG",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/0/04/CSGO_MP7_Inventory.png/revision/latest?cb=20130813201223"
+    },
+    {
+      "name": "P90",
+      "price": 2350,
+      "type": "SMG",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/5/54/CSGO_P90_Inventory.png/revision/latest?cb=20130813201421"
+    },
+    {
+      "name": "Galil AR",
+      "price": 2000,
+      "type": "Rifle",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/9/93/CSGO_Galil_AR_Inventory.png/revision/latest?cb=20130813202237"
+    },
+    {
+      "name": "FAMAS",
+      "price": 2250,
+      "type": "Rifle",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/e/e4/CSGO_FAMAS_Inventory.png/revision/latest?cb=20130813202130"
+    },
+    {
+      "name": "AK-47",
+      "price": 2700,
+      "type": "Rifle",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/8/80/CSGO_AK-47_Inventory.png/revision/latest?cb=20130813201911"
+    },
+    {
+      "name": "SG 553",
+      "price": 3000,
+      "type": "Rifle",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/1/16/CSGO_SG_553_Inventory.png/revision/latest?cb=20130813202530"
+    },
+    {
+      "name": "M4A1-S",
+      "price": 3100,
+      "type": "Rifle",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/8/81/CSGO_M4A1-S_Inventory.png/revision/latest?cb=20130824215315"
+    },
+    {
+      "name": "M4A4",
+      "price": 3100,
+      "type": "Rifle",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/7/77/CSGO_M4A4_Inventory.png/revision/latest?cb=20130813202347"
+    },
+    {
+      "name": "AUG",
+      "price": 3300,
+      "type": "Rifle",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/9/92/CSGO_AUG_Inventory.png/revision/latest?cb=20130813202013"
+    },
+    {
+      "name": "M249",
+      "price": 5200,
+      "type": "Machine Gun",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/7/7c/CSGO_M249_Inventory.png/revision/latest?cb=20130813203106"
+    },
+    {
+      "name": "Negev",
+      "price": 5700,
+      "type": "Machine Gun",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/0/03/CSGO_Negev_Inventory.png/revision/latest?cb=20130813203153"
+    },
+    {
+        "name": "SSG 08",
+        "price": 1700,
+        "type": "Sniper Rifle",
+        "image": "https://static.wikia.nocookie.net/cswikia/images/4/47/CSGO_SSG_08_Inventory.png/revision/latest?cb=20130813202813"
+    },  
+    {
+      "name": "AWP",
+      "price": 4750,
+      "type": "Sniper Rifle",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/2/23/CSGO_AWP_Inventory.png/revision/latest?cb=20130813202700"
+    },
+    {
+      "name": "G3SG1",
+      "price": 5000,
+      "type": "Sniper Rifle",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/3/35/CSGO_G3SG1_Inventory.png/revision/latest?cb=20130813202929"
+    },
+    {
+      "name": "SCAR-20",
+      "price": 5000,
+      "type": "Sniper Rifle",
+      "image": "https://static.wikia.nocookie.net/cswikia/images/b/bf/CSGO_SCAR-20_Inventory.png/revision/latest?cb=20130813203014"
+    }
+  ]
+  
