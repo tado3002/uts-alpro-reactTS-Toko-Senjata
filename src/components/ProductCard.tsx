@@ -19,7 +19,7 @@ const ProductCard = ({
       <figure>
         <img src={product.image} alt="Shoes" />
       </figure>
-      <div className="card-body ">
+      <div className="card-body justify-between">
         <h2 className="card-title ">
           {product.name.split("|").slice(0, 1).join("")}
         </h2>

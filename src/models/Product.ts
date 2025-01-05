@@ -8,8 +8,8 @@ export interface ProductListProps {
   setProduct: any;
 }
 export interface ProductSelected extends Product {
-  quantity: number
+  quantity: number;
 }
 export interface ProductsSelected {
-  products: ProductSelected[]
+  products: ProductSelected[];
 }
